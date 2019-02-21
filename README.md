@@ -8,3 +8,5 @@
 4) Different Techniques to handle Categorical Variables
 
 5) Feature Engineering (Converting Non-Linear data to Linear Data)
+
+6) Need for Model Calibration
