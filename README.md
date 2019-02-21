@@ -10,3 +10,5 @@
 5) Feature Engineering (Converting Non-Linear data to Linear Data)
 
 6) Need for Model Calibration
+
+7) Impact of L1 ,L2 and no regularization on weights of Logistic Regression Model
